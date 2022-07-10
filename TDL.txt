@@ -1,0 +1,9 @@
+to do
+
+
+wrapUp(); /*everything is fine send for final stage*/
+cleanAll(); } /*will clean data cmd and symbol
+
+errchart just make it simple
+
+problem with sentence chart, its meant to be the extra words divide. to check in class and with students
