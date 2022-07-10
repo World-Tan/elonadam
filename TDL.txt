@@ -6,4 +6,6 @@ cleanAll(); } /*will clean data cmd and symbol
 
 errchart just make it simple
 
-problem with sentence chart, its meant to be the extra words divide.
+cmdChart its meant to be the extra words divide.
+
+laps 1+2
